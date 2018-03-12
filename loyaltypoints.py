@@ -61,7 +61,7 @@ elif survey == "yes":
             
             print("Have you enjoyed shopping at Hoodwink Enterprises?")
             answer1 = input()
-            print("Is there anything we can change?")
+            print("We're sorry to hear that")
             answer2 = input()
             print("Alright we'll get right on it")
             print("Did you enjoy your last visit with us?")
